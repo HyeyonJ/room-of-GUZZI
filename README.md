@@ -1,4 +1,4 @@
-<img src="[https://user-images.githubusercontent.com/23310187/34244435-91eab306-e668-11e7-8063-735dff683bf8.png](https://www.canva.com/design/DAFsV-vn__c/syVmdQJY-Pu4AgnUrVHCNQ/view?utm_content=DAFsV-vn__c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/23310187/34244435-91eab306-e668-11e7-8063-735dff683bf8.png" width="90%"></img>
 # room-of-GUZZI
 react + js 채팅 웹 사이트
 
