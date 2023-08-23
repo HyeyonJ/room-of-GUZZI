@@ -17,7 +17,7 @@
 ## 💻 메인 기능
 <b>FLOW</b>
 채팅방 입장에서 텍스트, 이미지 전송까지
-<img width="70%" alt="image" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/73b64291-0176-4d6b-ad76-7525f039fedf">
+<img width="100%" alt="image" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/73b64291-0176-4d6b-ad76-7525f039fedf">
 
 ### 1. 텍스트 전송
 
