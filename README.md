@@ -35,7 +35,7 @@
 
 ### 2. 이미지 전송
 <blockquote>
-  <p dir="auto">텍스트 입력 창이 비활성화 됩니다.</p>
+  <p dir="auto">전송할 이미지를 선택하면 미리보기가 가능하고, 텍스트 입력 창이 비활성화 됩니다.</p>
 </blockquote>
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/cc2d53d1-3f55-42af-9f2c-990b369f006e"/>
 
