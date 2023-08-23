@@ -22,6 +22,7 @@
 </div>
 
 ### 1. 텍스트 전송
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/814b1b68-412b-44b5-beff-98df7908ff36.gif"/>
 
 ### 2. 이미지 전송
 
