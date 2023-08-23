@@ -22,9 +22,17 @@
 </div>
 
 ### 1. 텍스트 전송
+<blockquote>
+  <p dir="auto">이미지 전송 버튼이 45도 돌아가며, 비활성화 됩니다.</p>
+</blockquote>
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/814b1b68-412b-44b5-beff-98df7908ff36.gif"/>
 
 ### 2. 이미지 전송
+<blockquote>
+  <p dir="auto">텍스트 입력 창이 비활성화 됩니다.</p>
+</blockquote>
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/6e0fab0c-c902-4c73-9144-75839baf83f2.gif"/>
+
 
 ## 📂 프로젝트 관련 문서
 설계 및 개발 고민 (링크 예정)
