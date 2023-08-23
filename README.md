@@ -12,7 +12,7 @@
 </div>
 
 ## ⚙️ 아키텍처
-
+<img width="473" alt="archtectuer" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/32651ea2-1add-45a0-8449-5da521b56b2f">
 
 ## 💻 메인 기능
 FLOW
