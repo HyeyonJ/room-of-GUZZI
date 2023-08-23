@@ -1,5 +1,6 @@
 <img src="https://www.canva.com/design/DAFsV-vn__c/Xov6jbrhonKJlYKZZVLPfQ/edit?utm_content=DAFsV-vn__c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="90%"></img>
 
+<div align="center">
 # room-of-GUZZI
 react + js 채팅 웹 사이트
 
@@ -15,3 +16,5 @@ react + js 채팅 웹 사이트
 ## 🔗 개발 환경
 - react
 - javaScript
+
+</div>
