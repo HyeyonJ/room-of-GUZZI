@@ -37,7 +37,7 @@
 <blockquote>
   <p dir="auto">텍스트 입력 창이 비활성화 됩니다.</p>
 </blockquote>
-<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/6e0fab0c-c902-4c73-9144-75839baf83f2.gif"/>
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/cc2d53d1-3f55-42af-9f2c-990b369f006e"/>
 
 
 ## 📂 프로젝트 관련 문서
