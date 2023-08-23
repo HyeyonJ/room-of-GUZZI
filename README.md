@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFsV-vn__c/Xov6jbrhonKJlYKZZVLPfQ/edit?utm_content=DAFsV-vn__c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="90%"></img>
+<img width="578" alt="chatting" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/63cb437d-a500-4c41-b9d0-042f56b300c8">
 
 <div align="center">
   
