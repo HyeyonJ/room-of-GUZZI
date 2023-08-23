@@ -1,4 +1,5 @@
-<img src="https://www.canva.com/design/DAFsV-vn__c/syVmdQJY-Pu4AgnUrVHCNQ/view?utm_content=DAFsV-vn__c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="90%"></img>
+<img src="https://www.canva.com/design/DAFsV-vn__c/Xov6jbrhonKJlYKZZVLPfQ/edit?utm_content=DAFsV-vn__c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="90%"></img>
+
 # room-of-GUZZI
 react + js 채팅 웹 사이트
 
