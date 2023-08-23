@@ -31,7 +31,7 @@
 <blockquote>
   <p dir="auto">이미지 전송 버튼이 45도 돌아가며, 비활성화 됩니다.</p>
 </blockquote>
-<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/814b1b68-412b-44b5-beff-98df7908ff36.gif"/>
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/59ef17c3-7641-470b-86dc-3f0a30c03c07"/>
 
 ### 2. 이미지 전송
 <blockquote>
