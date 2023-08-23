@@ -1,4 +1,4 @@
-<img width="90%" alt="chatting" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/63cb437d-a500-4c41-b9d0-042f56b300c8">
+<img width="100%" alt="chatting" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/63cb437d-a500-4c41-b9d0-042f56b300c8">
 
 <div align="center">
   
