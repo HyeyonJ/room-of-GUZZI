@@ -1,14 +1,11 @@
 <img width="100%" alt="chatting" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/6acbc2ff-2441-4308-8e40-9d2648e80929.gif">
 
-<div align="center">
-  
-## 목차
+## GUZZI ROOM 목차
   1. [프로젝트 설명](#1-프로젝트-설명)
   2. [기술 스택](#2-기술-스택-technique-used)
   3. [아키텍처 시각화](#3-아키텍처-및-시퀀스-다이어그램)
   4. ㄴㅇㄹ
 
-</div>
 
 ## GUZZI ROOM
 
