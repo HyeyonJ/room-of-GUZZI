@@ -1,7 +1,9 @@
 <img width="100%" alt="chatting" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/6acbc2ff-2441-4308-8e40-9d2648e80929.gif">
 
 <div align="center">
+  
 # GUZZI ROOM
+
 </div>
 
 ## 목차
