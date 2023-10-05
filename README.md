@@ -5,7 +5,6 @@
 ## GUZZI ROOM
 물가 상승으로 인해 소비를 절약하려 했지만 혼자서는 어려움을 겪으셨나요?<br>
 "GUZZI ROOM(거지방)"은 소비 절약을 추구하는 개개인들을 위해 채팅 환경을 제공하는 서비스입니다.<br><br>
-[GUZZI 채팅 바로가기](https://all-chat.netlify.app/)
 
 </div>
 
@@ -27,6 +26,9 @@
 이에 소비에만 의존하지 않고, 스스로를 가치 있게 명품으로 느낄 수 있는 방법을 찾고자 합니다.<br>
 이를 위해 함께 노력하고 독려하는 채팅방을 만들어보았습니다.
 
+### 프로젝트 링크
+최종 배포 링크 : [GUZZI 채팅 바로가기](https://all-chat.netlify.app/)
+백엔드 Repo 링크 : https://github.com/mingle-mongle/guzzi
 
 
 
