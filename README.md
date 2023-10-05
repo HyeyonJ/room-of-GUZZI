@@ -34,6 +34,7 @@
 ### 프로젝트 링크
 최종 배포 링크 : [GUZZI-ROOM](https://all-chat.netlify.app/) <br>
 백엔드 Repo 링크 : https://github.com/mingle-mongle/guzzi
+<br><br>
 
 ## 2. 기술 스택
 ||
