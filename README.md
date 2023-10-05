@@ -27,7 +27,7 @@
 이를 위해 함께 노력하고 독려하는 채팅방을 만들어보았습니다.<br><br>
 
 ### 프로젝트 링크
-최종 배포 링크 : [GUZZI-ROOM](https://all-chat.netlify.app/)
+최종 배포 링크 : [GUZZI-ROOM](https://all-chat.netlify.app/) <br>
 백엔드 Repo 링크 : https://github.com/mingle-mongle/guzzi
 
 
