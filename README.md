@@ -9,7 +9,9 @@
 </div>
 
 <div align="center">
+  
 ## GUZZI ROOM 프로젝트 목차
+
 </div>
 
 1. [1. 프로젝트 설명](#1.-프로젝트-설명)
