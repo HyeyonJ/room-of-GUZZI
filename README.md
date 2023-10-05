@@ -5,6 +5,7 @@
 ## GUZZI ROOM
 물가 상승으로 인해 소비를 절약하려 했지만 혼자서는 어려움을 겪으셨나요?<br>
 "GUZZI ROOM(거지방)"은 소비 절약을 추구하는 개개인들을 위해 채팅 환경을 제공하는 서비스입니다.<br><br>
+[GUZZI 채팅 바로가기](https://all-chat.netlify.app/)
 
 </div>
 
@@ -15,7 +16,6 @@
 4. ㄴㅇㄹ
 
 
-[GUZZI 채팅 바로가기](https://all-chat.netlify.app/)
 
 
 
