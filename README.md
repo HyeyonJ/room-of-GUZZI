@@ -10,7 +10,7 @@
 
 <div align="center">
   
-## GUZZI ROOM 프로젝트 목차
+## 프로젝트 목차
 
 </div>
 
