@@ -1,11 +1,11 @@
 <img width="100%" alt="chatting" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/6acbc2ff-2441-4308-8e40-9d2648e80929.gif">
 
 <div>
+  
 ## GUZZI ROOM
 물가 상승으로 인해 소비를 절약하려 했지만 혼자서는 어려움을 겪으셨나요?<br>
 "GUZZI ROOM(거지방)"은 소비 절약을 추구하는 개개인들을 위해 채팅 환경을 제공하는 서비스입니다.<br><br>
 
-  
 </div>
 
 ## GUZZI ROOM 프로젝트 목차
