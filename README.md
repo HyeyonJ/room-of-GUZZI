@@ -62,7 +62,7 @@
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="./image/archi.png">
+				<img src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f449399b-c070-4819-b9e6-bc8dcc4ef1cc">
 			</td>
 		</tr>
 		<tr>
@@ -162,9 +162,6 @@
 	
   </ul>
 
-<div align="center">
-<img width="100%" alt="structure" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f449399b-c070-4819-b9e6-bc8dcc4ef1cc">
-</div>
 
 <img width="100%" alt="archtectuer" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/32651ea2-1add-45a0-8449-5da521b56b2f">
 
