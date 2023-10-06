@@ -54,8 +54,116 @@
 
 ## 3. 설계 및 아키텍처
 
+  <ul>
+  <li> ᐅ 아키텍처 </li>
+	<table align="center">
+		<tr>
+			<td align="center"><b>3-Tier Architecture</b></td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="./image/archi.png">
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+				Client : REACT </br>
+        Server : Aws App Runner(Express) </br>
+        Database : PlanetScale(MySQL) </br>
+			</td>
+		</tr>
+	</table>
+    <li> ᐅ GET </li>
+	<table align="center">
+		<tr>
+			<td align="center"><b>채팅 리스트 페이지별 요청</b></td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="./image/getPage.png">
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+				페이지 Validation check를 한 후, 올바른 요청일 경우 DB에 SELECT 쿼리를 넘깁니다. </br>
+        받아온 데이터에 이상이 있을 수 있으니, 데이터도 Validation check를 해줍니다. </br>
+        정확한 데이터일 경우 200 OK 응답코드와 데이터를 보내줍니다.        
+			</td>
+		</tr>
+	</table>
+	<table align="center">
+		<tr>
+			<td align="center"><b>채팅 리스트 메시지 아이디별 요청</b></td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="./image/getMsgid.png">
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+				메세지 아이디를 Validation check를 한 후, 올바른 요청일 경우 DB에 SELECT 쿼리를 넘깁니다. </br>
+        받아온 데이터에 이상이 있을 수 있으니, 데이터도 Validation check를 해줍니다. </br>
+        정확한 데이터일 경우 200 OK 응답코드와 데이터를 보내줍니다.
+			</td>
+		</tr>
+	</table>
+    <li> ᐅ POST  </li>
+	<table align="center">
+		<tr>
+			<td align="center"><b>채팅 메시지 추가</b></td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="./image/post.png">
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+			  body값에 대한 Validation check를 한 후, 올바른 요청일 경우 DB에 INSERT 쿼리를 넘깁니다. </br>
+        DB에 INSERT 성공 시 201 Created 응답코드를 보내줍니다. 
+			</td>
+		</tr>
+	</table>
+	    <li> ᐅ PUT </li>
+	<table align="center">
+		<tr>
+			<td align="center"><b>채팅 메시지 수정</b></td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="./image/put.png">
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+				메세지 아이디와 body값에 대한 Validation check를 한 후, 올바른 요청일 경우 DB에 UPDATE 쿼리를 넘깁니다. </br>
+        DB에 UPDATE 성공 시 204 No Content 응답코드를 보내줍니다. 
+			</td>
+		</tr>
+	</table>
+	    <li> ᐅ DELETE </li>
+    	<table align="center">
+		<tr>
+			<td align="center"><b>채팅 메시지 삭제</b></td>
+		</tr>
+		<tr>
+			<td align="center">
+				<img src="./image/delete.png">
+			</td>
+		</tr>
+		<tr>
+			<td align="center">
+			  메세지 아이디를 Validation check를 한 후, 올바른 요청일 경우 DB에 DELETE 쿼리를 넘깁니다. </br>
+        DB에서 DELETE 성공 시 204 No Content 응답코드를 보내줍니다. 
+			</td>
+		</tr>
+	</table>
+	
+  </ul>
+
 <div align="center">
-<img width="80%" alt="structure" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/459bead7-4881-4fb0-a877-3cbe6e646a9c">
+<img width="100%" alt="structure" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f449399b-c070-4819-b9e6-bc8dcc4ef1cc">
 </div>
 
 <img width="100%" alt="archtectuer" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/32651ea2-1add-45a0-8449-5da521b56b2f">
