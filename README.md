@@ -56,8 +56,8 @@
 
 
  <ul>
-  <li> ᐅ 아키텍처 </li>
-	<table align="center">
+  <li> 3계층 아키텍처 </li>
+	<table align="center" width="100%">
 		<tr>
 			<td align="center"><b>3-Tier Architecture</b></td>
 		</tr>
@@ -74,6 +74,7 @@
 			</td>
 		</tr>
 	</table>
+	 
     <li> ᐅ GET </li>
 	<table align="center">
 		<tr>
