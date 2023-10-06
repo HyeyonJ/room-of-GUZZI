@@ -35,7 +35,7 @@
 최종 배포 링크 : [GUZZI-ROOM](https://all-chat.netlify.app/) <br>
 백엔드 Repo 링크 : https://github.com/mingle-mongle/guzzi
 </blockquote>
-
+<br>
 
 ## 2. 기술 스택
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
@@ -45,7 +45,7 @@
 <img src="https://img.shields.io/badge/CodeSandbox-181717?style=for-the-badge&logo=codesandbox&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br>
 <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-
+<br>
 
 ## 3. 설계 및 아키텍처
 <img width="100%" alt="archtectuer" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/32651ea2-1add-45a0-8449-5da521b56b2f">
