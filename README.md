@@ -83,7 +83,10 @@
 
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/745479ac-3192-4eef-9861-827cd0b655ba.png">
 
- - 
+ - TextField에 값이 없을 시 SEND 버튼을 비활성화 합니다. 이는 NULL 값이 POST 되지 않기 위함입니다.
+ - TextField에 텍스트 입력 시 image 버튼은 비활성화 되며, 이를 시각적으로 나타내기 위해 45도 돌아가도록 만들었습니다.
+
+#### 🔹이미지 메세지 POST
 
 
 <img width="100%" alt="archtectuer" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/32651ea2-1add-45a0-8449-5da521b56b2f">
