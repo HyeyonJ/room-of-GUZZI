@@ -92,7 +92,8 @@
 
 - Input에 이미지 값이 없을 시 SEND 버튼을 비활성화 합니다. 이는 NULL 값이 POST 되지 않기 위함입니다.
 - Input에 이미지 값 입력 시 TextField는 disabled로 비활성화 하였습니다.
-
+<br>
+  
 ## 💻 메인 기능
 <b>FLOW</b><br>
 채팅방 입장에서 텍스트, 이미지 전송까지
