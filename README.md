@@ -62,14 +62,19 @@
 
 ### ⚙️ GET
 
-#### 채팅 리스트 페이지별 요청
+### 채팅 리스트 페이지별 요청
 
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f467001d-9d8f-4553-9186-8dc2c06e333a.png">
 
  - 페이지가 정상적으로 요청되었을 시 채팅 리스트를 불러옵니다.
  - 올바른 요청이 아닐 시 MUI Snackbar로 Alert를 띄웁니다.
 
-#### IP 주소 요청
+### IP 주소 요청
+
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/35001115-0342-4fee-a7f5-e798f674702f.png">
+
+ - 로그인 시 해당 채팅방의 접근성이 떨어져 IP 기반으로 사용자를 구분할 수 있도록 만들었습니다.
+ - IP를 localstorage에 저장하여, 기존의 자신의 채팅 기록을 확인할 수 있습니다.
 
 
  <ul>	 
