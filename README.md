@@ -97,6 +97,7 @@
 <br>
   
 ## `4. UI/UX에 관한 고민`
+
 <b>FLOW</b><br>
 채팅방 입장에서 텍스트, 이미지 전송까지
 <div align="center">
