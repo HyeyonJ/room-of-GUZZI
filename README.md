@@ -54,6 +54,10 @@
 
 ## 3. 설계 및 아키텍처
 
+|![image](https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f449399b-c070-4819-b9e6-bc8dcc4ef1cc)|
+|---|
+|Client : REACT </br> Server : Aws App Runner(Express) </br> Database : PlanetScale(MySQL) </br>|
+
 
  <ul>
   <li> 3계층 아키텍처 </li>
