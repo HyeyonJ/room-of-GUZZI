@@ -55,14 +55,14 @@
 ## 3. 설계 및 아키텍처
 
   <ul>
-  <li> ᐅ 아키텍처 </li>
+  <li> 아키텍처 </li>
 	<table align="center">
 		<tr>
 			<td align="center"><b>3-Tier Architecture</b></td>
 		</tr>
 		<tr>
 			<td align="center">
-				<img src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f449399b-c070-4819-b9e6-bc8dcc4ef1cc">
+				<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f449399b-c070-4819-b9e6-bc8dcc4ef1cc">
 			</td>
 		</tr>
 		<tr>
