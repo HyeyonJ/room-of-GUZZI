@@ -10,7 +10,7 @@
 
 <div align="center">
   
-## 프로젝트 목차
+## 목차
 
 </div>
 
@@ -41,7 +41,7 @@
 </blockquote>
 <br>
 
-<p align="right"><a href="#프로젝트-목차">⬆ 목차로 돌아가기</a></p>
+<p align="right"><a href="#목차">⬆ 목차로 돌아가기</a></p>
 <br>
 
 ## `2. 기술 스택`
@@ -59,7 +59,7 @@
   - mui
 <br>
 
-<p align="right"><a href="#프로젝트-목차">⬆ 목차로 돌아가기</a></p>
+<p align="right"><a href="#목차">⬆ 목차로 돌아가기</a></p>
 <br>
 
 ## `3. 설계 및 아키텍처`
@@ -105,7 +105,7 @@
 
 <br>
 
-<p align="right"><a href="#프로젝트-목차">⬆ 목차로 돌아가기</a></p>
+<p align="right"><a href="#목차">⬆ 목차로 돌아가기</a></p>
 <br>
   
 ## 4. `UI/UX에 관한 고민`
