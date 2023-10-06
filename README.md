@@ -55,8 +55,8 @@
 ## 3. 설계 및 아키텍처
 
 
-### 3-Tier 아키텍처
-
+ <ul>
+  <li> ᐅ 아키텍처 </li>
 	<table align="center">
 		<tr>
 			<td align="center"><b>3-Tier Architecture</b></td>
@@ -160,7 +160,7 @@
 			</td>
 		</tr>
 	</table>
-	
+	 </ul>
 
 
 
