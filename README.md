@@ -77,8 +77,11 @@
 
 ### ⚙️ POST
 
-#### 🔹
+#### 🔹텍스트 메세지 POST
 
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/868e06da-6bdb-47da-8fae-791e864dda22.png">
+
+ - 
 
  <ul>	 
     <li> ᐅ POST  </li>
