@@ -39,15 +39,6 @@
 <br><br>
 
 ## 2. 기술 스택
-|![image](https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/172181d7-9446-41ed-96cf-dafcc490ef0b)|
-|---|
-|[react](https://react.dev/)|
-
-
-
-
-
-### 🔨 Skill Keywords 🔨
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
