@@ -62,14 +62,14 @@
 
 ### ⚙️ GET
 
-#### 채팅 리스트 페이지별 요청
+#### 🔹 채팅 리스트 페이지별 요청
 
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f467001d-9d8f-4553-9186-8dc2c06e333a.png">
 
  - 페이지가 정상적으로 요청되었을 시 채팅 리스트를 불러옵니다.
  - 올바른 요청이 아닐 시 MUI Snackbar로 Alert를 띄웁니다.
 
-#### IP 주소 요청
+#### 🔹 IP 주소 요청
 
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/5e93786b-0c63-4a59-ac0f-51bd93febd6a.png">
 
