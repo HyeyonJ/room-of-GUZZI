@@ -69,12 +69,14 @@
 
  - 페이지가 정상적으로 요청되었을 시 채팅 리스트를 불러옵니다.
  - 올바른 요청이 아닐 시 MUI Snackbar로 Alert를 띄웁니다.
+ - <br>
 
 #### 🔹 IP 주소 요청
 
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/5e93786b-0c63-4a59-ac0f-51bd93febd6a.png">
 
  - 해당 채팅방의 접근성을 높이기 위해 회원가입 후 로그인 입장이 아닌, IP 기반으로 사용자를 구분할 수 있도록 만들었습니다.
+<br>
 
 ### ⚙️ POST
 
