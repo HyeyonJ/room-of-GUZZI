@@ -34,7 +34,7 @@
 
 ### 프로젝트 링크
 <blockquote>
-최종 배포 링크 : [GUZZI-ROOM](#https://all-chat.netlify.app/guzzi) <br>
+최종 배포 링크 : [GUZZI-ROOM](https://all-chat.netlify.app/guzzi) <br>
 백엔드 Repo 링크 : https://github.com/mingle-mongle/guzzi
 </blockquote>
 <br>
