@@ -54,7 +54,7 @@
 
 ## 3. 설계 및 아키텍처
 <div align="center">
-<img width="50% scr="">
+<img width="50%" alt="hh" scr="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/459bead7-4881-4fb0-a877-3cbe6e646a9c">
 </div>
 <img width="100%" alt="archtectuer" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/32651ea2-1add-45a0-8449-5da521b56b2f">
 
