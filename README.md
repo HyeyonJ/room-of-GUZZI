@@ -56,7 +56,8 @@
 
 ### 3-Tier Architecture
 
-|![image](https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f449399b-c070-4819-b9e6-bc8dcc4ef1cc)|
+|<img src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f449399b-c070-4819-b9e6-bc8dcc4ef1cc" alt="Image" style="width:100%;">
+|
 |---|
 |Client : REACT </br> Server : Aws App Runner(Express) </br> Database : PlanetScale(MySQL) </br>|
 
