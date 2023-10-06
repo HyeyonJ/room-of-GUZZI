@@ -14,14 +14,14 @@
 
 </div>
 
-[1. 프로젝트에 대하여](#1.-프로젝트에-대하여)<br>
-2. [기술 스택](#기술-스택)
-[3. 설계 및 아키텍처](#3.-설계-및-아키텍처)
-4. ㄴㅇㄹ
+1. [프로젝트에 대하여](#1-프로젝트에-대하여)<br>
+2. [기술 스택](#2-기술-스택)
+3. [설계 및 아키텍처](#3-설계-및-아키텍처)
+4. [구현 화면](4-구현-화면)
 
 <br><br>
 
-## 1. 프로젝트에 대하여
+## `1. 프로젝트에 대하여`
 ### 프로젝트 설명
 <blockquote>
 요즘은 물가 상승과 금리 인상으로 인해 절약이 중요한 주제로 떠오르고 있습니다. <br>
@@ -37,7 +37,7 @@
 </blockquote>
 <br>
 
-## 2. 기술 스택
+## `2. 기술 스택`
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -52,7 +52,7 @@
   - mui
 <br><br>
 
-## 3. 설계 및 아키텍처
+## `3. 설계 및 아키텍처`
 
 ### 3-Tier Architecture
 
