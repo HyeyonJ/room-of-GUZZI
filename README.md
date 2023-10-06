@@ -81,7 +81,7 @@
 
 #### 🔹텍스트 메세지 POST
 
-<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/868e06da-6bdb-47da-8fae-791e864dda22.png">
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/eb20d8d4-1057-4a86-b1c1-56c1cc65af06.png">
 
  - 
 
