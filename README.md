@@ -62,7 +62,7 @@
 
 ### GET
 
-<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/92e2d9c7-b41b-424f-a52a-6767c351fc44.png">
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f467001d-9d8f-4553-9186-8dc2c06e333a.png">
 
  - 페이지가 정상적으로 요청되었을 시 채팅 리스트를 불러옵니다.
  - 올바른 요청이 아닐 시 MUI Snackbar로 Alert를 띄웁니다.
