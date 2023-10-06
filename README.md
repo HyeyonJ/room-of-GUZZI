@@ -46,7 +46,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br>
 <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 <br>
-사용된 오픈소스
+
+###사용된 오픈소스
 - frontend
   - mui
 <br><br>
