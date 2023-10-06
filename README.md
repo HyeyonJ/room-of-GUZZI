@@ -88,7 +88,7 @@
 
 #### 🔹이미지 메세지 POST
 
-<img width="100%" alt="archtectuer" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/0f44410a-0808-4bbd-82cf-d6ab5ab94c03.png">
+<img width="100%" alt="archtectuer" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/4caab2c5-2539-46b0-b616-6ba37849221c.png">
 
 - Input에 이미지 값이 없을 시 SEND 버튼을 비활성화 합니다. 이는 NULL 값이 POST 되지 않기 위함입니다.
 - Input에 이미지 값 입력 시 TextField는 disabled로 비활성화 하였습니다.
