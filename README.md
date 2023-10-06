@@ -103,40 +103,6 @@
 			</td>
 		</tr>
 	</table>
-	    <li> ᐅ PUT </li>
-	<table align="center">
-		<tr>
-			<td align="center"><b>채팅 메시지 수정</b></td>
-		</tr>
-		<tr>
-			<td align="center">
-				<img src="./image/put.png">
-			</td>
-		</tr>
-		<tr>
-			<td align="center">
-				메세지 아이디와 body값에 대한 Validation check를 한 후, 올바른 요청일 경우 DB에 UPDATE 쿼리를 넘깁니다. </br>
-        DB에 UPDATE 성공 시 204 No Content 응답코드를 보내줍니다. 
-			</td>
-		</tr>
-	</table>
-	    <li> ᐅ DELETE </li>
-    	<table align="center">
-		<tr>
-			<td align="center"><b>채팅 메시지 삭제</b></td>
-		</tr>
-		<tr>
-			<td align="center">
-				<img src="./image/delete.png">
-			</td>
-		</tr>
-		<tr>
-			<td align="center">
-			  메세지 아이디를 Validation check를 한 후, 올바른 요청일 경우 DB에 DELETE 쿼리를 넘깁니다. </br>
-        DB에서 DELETE 성공 시 204 No Content 응답코드를 보내줍니다. 
-			</td>
-		</tr>
-	</table>
 	 </ul>
 
 
