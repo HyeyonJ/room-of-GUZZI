@@ -85,27 +85,6 @@
 
  - 
 
- <ul>	 
-    <li> ᐅ POST  </li>
-	<table align="center">
-		<tr>
-			<td align="center"><b>채팅 메시지 추가</b></td>
-		</tr>
-		<tr>
-			<td align="center">
-				<img src="./image/post.png">
-			</td>
-		</tr>
-		<tr>
-			<td align="center">
-			  body값에 대한 Validation check를 한 후, 올바른 요청일 경우 DB에 INSERT 쿼리를 넘깁니다. </br>
-        DB에 INSERT 성공 시 201 Created 응답코드를 보내줍니다. 
-			</td>
-		</tr>
-	</table>
-	 </ul>
-
-
 
 <img width="100%" alt="archtectuer" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/32651ea2-1add-45a0-8449-5da521b56b2f">
 
