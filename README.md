@@ -39,7 +39,7 @@
 <br><br>
 
 ## 2. 기술 스택
-|![image](https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/172181d7-9446-41ed-96cf-dafcc490ef0b).png|
+|![image](https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/172181d7-9446-41ed-96cf-dafcc490ef0b)|
 |---|
 |[react](https://react.dev/)|
 
