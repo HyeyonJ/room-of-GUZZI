@@ -74,7 +74,6 @@
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/5e93786b-0c63-4a59-ac0f-51bd93febd6a.png">
 
  - 해당 채팅방의 접근성을 높이기 위해 회원가입 후 로그인 입장이 아닌 IP 기반으로 사용자를 구분할 수 있도록 만들었습니다.
- - IP를 localstorage에 저장하여, 개개인의 채팅 기록을 확인할 수 있습니다.
 
 
  <ul>	 
