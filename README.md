@@ -54,8 +54,9 @@
 
 ## 3. 설계 및 아키텍처
 
-  <ul>
-  <li> 아키텍처 </li>
+
+### 3-Tier 아키텍처
+
 	<table align="center">
 		<tr>
 			<td align="center"><b>3-Tier Architecture</b></td>
@@ -160,7 +161,7 @@
 		</tr>
 	</table>
 	
-  </ul>
+
 
 
 <img width="100%" alt="archtectuer" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/32651ea2-1add-45a0-8449-5da521b56b2f">
