@@ -75,43 +75,12 @@
 
  - 해당 채팅방의 접근성을 높이기 위해 회원가입 후 로그인 입장이 아닌, IP 기반으로 사용자를 구분할 수 있도록 만들었습니다.
 
+### ⚙️ POST
+
+#### 🔹
+
 
  <ul>	 
-    <li> ᐅ GET </li>
-	<table align="center">
-		<tr>
-			<td align="center"><b>채팅 리스트 페이지별 요청</b></td>
-		</tr>
-		<tr>
-			<td align="center">
-				<img src="./image/getPage.png">
-			</td>
-		</tr>
-		<tr>
-			<td align="center">
-				페이지 Validation check를 한 후, 올바른 요청일 경우 DB에 SELECT 쿼리를 넘깁니다. </br>
-        받아온 데이터에 이상이 있을 수 있으니, 데이터도 Validation check를 해줍니다. </br>
-        정확한 데이터일 경우 200 OK 응답코드와 데이터를 보내줍니다.        
-			</td>
-		</tr>
-	</table>
-	<table align="center">
-		<tr>
-			<td align="center"><b>채팅 리스트 메시지 아이디별 요청</b></td>
-		</tr>
-		<tr>
-			<td align="center">
-				<img src="./image/getMsgid.png">
-			</td>
-		</tr>
-		<tr>
-			<td align="center">
-				메세지 아이디를 Validation check를 한 후, 올바른 요청일 경우 DB에 SELECT 쿼리를 넘깁니다. </br>
-        받아온 데이터에 이상이 있을 수 있으니, 데이터도 Validation check를 해줍니다. </br>
-        정확한 데이터일 경우 200 OK 응답코드와 데이터를 보내줍니다.
-			</td>
-		</tr>
-	</table>
     <li> ᐅ POST  </li>
 	<table align="center">
 		<tr>
