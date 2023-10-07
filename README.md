@@ -157,3 +157,4 @@
 ## 5. `최적화를 위한 고민`
 
 ## 6. `Reference`
+- https://www.youtube.com/watch?v=ccwPs2hmo7w&t=466s
