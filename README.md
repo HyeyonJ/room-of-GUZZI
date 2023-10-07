@@ -70,6 +70,11 @@
 |---|
 |Client : REACT </br> Server : Aws App Runner(Express) </br> Database : PlanetScale(MySQL) </br>|
 <br>
+<b>FLOW</b><br>
+채팅방 입장에서 텍스트, 이미지 전송까지
+<div align="center">
+<img width="50%" alt="haoaoao" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/9aa45737-fd69-4818-b032-f9d04845a522">
+</div>
 
 ### ⚙️ GET
 
@@ -143,11 +148,7 @@
 ### 💡 메세지 좌, 우 정렬
 
 
-<b>FLOW</b><br>
-채팅방 입장에서 텍스트, 이미지 전송까지
-<div align="center">
-<img width="50%" alt="haoaoao" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/9aa45737-fd69-4818-b032-f9d04845a522">
-</div>
+
 
 
 ## 5. `최적화를 위한 고민`
