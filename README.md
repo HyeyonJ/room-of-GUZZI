@@ -128,7 +128,7 @@
 </Grid>
 ```
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/2e8ff736-dcb9-4aee-909e-6932af0722c5"/>
-<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/cc2d53d1-3f55-42af-9f2c-990b369f006e"/>
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/44d7a625-565b-426c-8700-3f58eb9203f5"/>
 <br>
 
 ### 💡 SEND 버튼 활성화, 비활성화
