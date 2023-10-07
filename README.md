@@ -112,6 +112,13 @@
 
 ### 💡 반응형 웹을 위한 Grid
 - [MUI](https://mui.com/)를 활용하여 Grid를 구현했습니다.
+  - Grid 컴포넌트의 spacing과 breakpoints 속성 sx, md, lg를 사용했습니다.
+  - sx: sx 속성은 Grid 컴포넌트의 스타일을 직접 설정할 때 사용됩니다. 이 속성을 사용하여 커스텀 스타일을 적용할 수 있습니다.
+  - md와 lg: md와 lg는 미디어 쿼리 브레이크포인트를 나타내며, Grid 컴포넌트 내에서 아이템의 가로 너비를 지정할 때 사용됩니다.
+    - xs: Extra Small 화면 크기
+    - sm: Small 화면 크기
+    - md: Medium 화면 크기
+    - lg: Large 화면 크기
 ```
 <Grid xs={12} md={12} lg={3}>
 </Grid>
@@ -120,6 +127,8 @@
 <Grid xs={12} md={12} lg={3}>
 </Grid>
 ```
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/59ef17c3-7641-470b-86dc-3f0a30c03c07"/>
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/cc2d53d1-3f55-42af-9f2c-990b369f006e"/>
 <br>
 
 ### 💡 SEND 버튼 활성화, 비활성화
@@ -137,13 +146,13 @@
 <blockquote>
   <p dir="auto">이미지 전송 버튼이 45도 돌아가며, 비활성화 됩니다.</p>
 </blockquote>
-<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/59ef17c3-7641-470b-86dc-3f0a30c03c07"/>
+
 
 ### 2. 이미지 전송
 <blockquote>
   <p dir="auto">전송할 이미지를 선택하면 미리보기가 가능하고, 텍스트 입력 창이 비활성화 됩니다.</p>
 </blockquote>
-<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/cc2d53d1-3f55-42af-9f2c-990b369f006e"/>
+
 
 
 ## 📂 프로젝트 관련 문서
