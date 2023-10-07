@@ -127,7 +127,7 @@
 <Grid xs={12} md={12} lg={3}>
 </Grid>
 ```
-<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/59ef17c3-7641-470b-86dc-3f0a30c03c07"/>
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/2e8ff736-dcb9-4aee-909e-6932af0722c5"/>
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/cc2d53d1-3f55-42af-9f2c-990b369f006e"/>
 <br>
 
