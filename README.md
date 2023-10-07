@@ -129,6 +129,7 @@
 ```
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/2e8ff736-dcb9-4aee-909e-6932af0722c5"/>
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/44d7a625-565b-426c-8700-3f58eb9203f5"/>
+
 <br>
 
 ### 💡 SEND 버튼 활성화, 비활성화
@@ -153,7 +154,6 @@
   <p dir="auto">전송할 이미지를 선택하면 미리보기가 가능하고, 텍스트 입력 창이 비활성화 됩니다.</p>
 </blockquote>
 
+## 5. `최적화를 위한 고민`
 
-
-## 📂 프로젝트 관련 문서
-설계 및 개발 고민 (링크 예정)
+## 6. `Reference`
