@@ -111,7 +111,7 @@
 ## 4. `UI/UX에 관한 고민`
 
 ### 💡 반응형 웹을 위한 Grid
-- [MUI](#https://mui.com/)를 활용하여 Grid를 구현했습니다.
+- [MUI](https://mui.com/)를 활용하여 Grid를 구현했습니다.
 ```
 <Grid xs={12} md={12} lg={3}>
 </Grid>
