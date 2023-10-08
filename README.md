@@ -200,5 +200,16 @@
 
 ## 5. `최적화를 위한 고민`
 
+### 💡 Fetch와 Clean Up
+
+<br>
+
+### 💡 Image POST 처리
+
+<br>
+
+<p align="right"><a href="#목차">⬆ 목차로 돌아가기</a></p>
+<br>
+
 ## 6. `Reference`
 - https://www.youtube.com/watch?v=ccwPs2hmo7w&t=466s
