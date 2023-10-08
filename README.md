@@ -187,6 +187,7 @@
 ```
 
 <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/79d958b1-976a-48ea-b62e-89e83cd1ffc2.png"/>
+
 <br>
 
 <p align="right"><a href="#목차">⬆ 목차로 돌아가기</a></p>
