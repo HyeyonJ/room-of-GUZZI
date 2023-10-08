@@ -116,6 +116,10 @@
 ## 4. `UI/UX에 관한 고민`
 
 ### 💡 반응형 웹을 위한 Grid
+
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/2e8ff736-dcb9-4aee-909e-6932af0722c5"/>
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/44d7a625-565b-426c-8700-3f58eb9203f5"/>
+
 - [MUI](https://mui.com/)를 활용하여 Grid를 구현했습니다.
   - Grid 컴포넌트의 spacing과 breakpoints 속성 sx, md, lg를 사용했습니다.
   - sx: sx 속성은 Grid 컴포넌트의 스타일을 직접 설정할 때 사용됩니다. 이 속성을 사용하여 커스텀 스타일을 적용할 수 있습니다.
@@ -132,22 +136,25 @@
 <Grid xs={12} md={12} lg={3}>
 </Grid>
 ```
-<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/2e8ff736-dcb9-4aee-909e-6932af0722c5"/>
-<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/44d7a625-565b-426c-8700-3f58eb9203f5"/>
+
 
 <br>
 
 ### 💡 SEND 버튼 활성화, 비활성화
+
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/08a7989c-e6b8-4b16-9bed-915cd4c61e13.png"/>
+ 
 - DB content 칼럼에 Text 메세지인지 Image 메세지인지 구분하여 저장하도록 하였습니다. 빈 값이 들어가는 경우 에러가 발생하여 어떠한 값도 입력되지 않았을 경우 SEND 버튼을 비활성화 해두었습니다.
 - 또한 Text 메세지인지 Image 메세지 두 개의 항목이 동시에 저장되는 상황이 발생하였습니다.
   - 따라서 Text 메세지 POST 시 이미지 전송 버튼이 45도 돌아가며, 비활성화 되도록 하였습니다.
   - Image 메세지 POST 시 전송할 이미지를 선택하면 미리보기가 가능하고, 텍스트 입력 창이 비활성화 되도록 하였습니다.
 
- <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/08a7989c-e6b8-4b16-9bed-915cd4c61e13.png"/>
- 
 <br>
 
 ### 💡 메세지 좌, 우 정렬
+
+<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/79d958b1-976a-48ea-b62e-89e83cd1ffc2.png"/>
+
 - 나의 메세지를 오른쪽 정렬, 타인의 메세지를 왼쪽 정렬하여 구분할 수 있도록 하였습니다.
 - localStorage에 저장되어있는 IP를 기반으로 삼항연산자 조건문을 통해 구분할 수 있도록 하였습니다.
 
@@ -185,8 +192,6 @@
                   );
                 })}
 ```
-
-<img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/79d958b1-976a-48ea-b62e-89e83cd1ffc2.png"/>
 
 <br>
 
