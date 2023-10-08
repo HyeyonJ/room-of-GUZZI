@@ -148,7 +148,43 @@
 <br>
 
 ### 💡 메세지 좌, 우 정렬
+- 나의 메세지를 오른쪽 정렬, 타인의 메세지를 왼쪽 정렬하여 구분할 수 있도록 하였습니다.
+- localStorage에 저장되어있는 IP를 기반으로 삼항연산자 조건문을 통해 구분할 수 있도록 하였습니다.
 
+```
+              {data &&
+                data.map((item) => {
+                  const isMyMessage = item.user.ip === ipAddress; // 내 IP인지 여부
+                  const alignment = isMyMessage ? "flex-end" : "flex-start";
+
+                  return (
+                    <Box display="flex" flexDirection="column" p={1}>
+                      <Box>
+                        {isMyMessage === false ? (
+                          <img
+                            src="coin.png"
+                            alt="프로필"
+                            width="40"
+                            height="40"
+                            style={{ marginRight: "10px" }}
+                          />
+                        ) : null}
+                        <Typography>
+                          {item.content}
+                          {item.image.includes("data:image") ? (
+                            <img
+                              src={item.image}
+                              width="150"
+                              height="150"
+                              alt="map안에서 채팅"
+                            />
+                          ) : null}
+                        </Typography>
+                      </Box>
+                    </Box>
+                  );
+                })}
+```
 
 
 
