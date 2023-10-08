@@ -143,7 +143,7 @@
   - 따라서 Text 메세지 POST 시 이미지 전송 버튼이 45도 돌아가며, 비활성화 되도록 하였습니다.
   - Image 메세지 POST 시 전송할 이미지를 선택하면 미리보기가 가능하고, 텍스트 입력 창이 비활성화 되도록 하였습니다.
 
- <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/db74d106-be6b-426a-81bb-4b392460f894.png"/>
+ <img width="100%" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/08a7989c-e6b8-4b16-9bed-915cd4c61e13.png"/>
  
 <br>
 
