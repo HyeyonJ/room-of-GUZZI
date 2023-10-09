@@ -227,6 +227,35 @@
 
 ### 💡 Image POST 처리
 
+```
+  const handleImageChange = async (e) => {
+    const file = e.target.files[0];
+
+    const options = {
+      maxSizeMB: file.size,
+      fileType: file.type,
+      initialQuality: 0.5,
+      alwaysKeepResolution: true
+    };
+
+    const compressedImage = await imageCompression(file, options);
+    const data = new FileReader();
+    data.readAsDataURL(compressedImage);
+    data.addEventListener("load", () => {
+      const compressedSize = compressedImage.size;
+      if (compressedSize < 50 * 1024) {
+        setImgBase64(data.result);
+      } else {
+        setOpen(true);
+        setSnackbar({
+          severity: "error",
+          message: "용량이 너무 큽니다. 50kb로 줄여주세요."
+        });
+      }
+    });
+  };
+```
+
 <br>
 
 <p align="right"><a href="#목차">⬆ 목차로 돌아가기</a></p>
