@@ -202,6 +202,27 @@
 
 ### 💡 Fetch와 Clean Up
 
+```
+  React.useEffect(() => {
+    const timeout = setInterval(async () => {
+      const res = await fetch(`${SERVER}/lists?page=1`, {
+        method: "GET",
+        headers: {
+          "Cache-Control": "no-cache"
+        }
+      });
+      if (res.ok) {
+        const json = await res.json();
+        setData(json.reverse());
+        console.log(json);
+      }
+    }, 3000);
+    return () => clearInterval(timeout);
+  }, []);
+```
+
+- useState를 사용 시 
+
 <br>
 
 ### 💡 Image POST 처리
@@ -212,4 +233,7 @@
 <br>
 
 ## 6. `Reference`
+
+- https://ko.legacy.reactjs.org/
 - https://www.youtube.com/watch?v=ccwPs2hmo7w&t=466s
+- https://www.youtube.com/watch?v=VxqZrL4FLz8&t=50s
