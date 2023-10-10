@@ -54,27 +54,24 @@
 <img src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 <br>
 
-### 사용된 오픈소스
-- frontend
-  - mui
-<br>
-
 <p align="right"><a href="#목차">⬆ 목차로 돌아가기</a></p>
 <br>
 
 ## `3. 설계 및 아키텍처`
 
-### ⚙️ 3-Tier Architecture
-
-|![image](https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f449399b-c070-4819-b9e6-bc8dcc4ef1cc)|
-|---|
-|Client : REACT </br> Server : Aws App Runner(Express) </br> Database : PlanetScale(MySQL) </br>|
-<br>
 <b>FLOW</b><br>
 채팅방 입장에서 텍스트, 이미지 전송까지
 <div align="center">
 <img width="50%" alt="haoaoao" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/9aa45737-fd69-4818-b032-f9d04845a522">
 </div>
+
+### ⚙️ 3-Tier Architecture
+
+<img width="50%" alt="haoaoao" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/f449399b-c070-4819-b9e6-bc8dcc4ef1cc">
+Client : REACT </br> Server : Aws App Runner(Express) </br> Database : PlanetScale(MySQL) </br>
+
+<br>
+
 
 ### ⚙️ GET
 
