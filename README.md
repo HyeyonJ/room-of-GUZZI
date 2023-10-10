@@ -221,7 +221,8 @@
   }, []);
 ```
 
-- useState를 사용 시 
+- 비동기로 움직이는 uesEffect에 delay를 넣어 cleanup을 하였습니다.
+- rateLimit에 대한 고민으로 부터 시작했습니다.
 
 <br>
 
@@ -255,6 +256,9 @@
     });
   };
 ```
+- image는 base64 문자열로 저장하였습니다.
+- 이미지 크기가 큰 경우 에러가 발생하여 50 * 1024 이하로 이미지 크기를 축소한 뒤 저장할 수 있도록 만들었습니다.
+- 이미지 크기를 축소한 뒤에도 50 * 1024 보다 크기가 큰 경우 에러메세지를 띄웁니다.
 
 <br>
 
@@ -266,3 +270,6 @@
 - https://ko.legacy.reactjs.org/
 - https://www.youtube.com/watch?v=ccwPs2hmo7w&t=466s
 - https://www.youtube.com/watch?v=VxqZrL4FLz8&t=50s
+- https://www.inflearn.com/course/lecture?courseSlug=%EA%B0%9C%EB%B0%9C-%EC%B4%88%EB%B3%B4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EB%8B%A4%EC%9E%87%EC%86%8C&unitId=187133
+- https://acdongpgm.tistory.com/159
+- https://webclub.tistory.com/71
