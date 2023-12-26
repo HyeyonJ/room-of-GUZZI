@@ -59,18 +59,18 @@
 
 ## `3. 설계 및 아키텍처`
 
+### ⚙️ 3-Tier Architecture
+
+<img width="50%" alt="haoaoao" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/25e232f8-5934-43d9-b918-bc7916d480f6">
+</br> Client : REACT </br> Server : Aws App Runner(Express) </br> Database : PlanetScale(MySQL) </br>
+
+<br>
+
 <b>FLOW</b><br>
 채팅방 입장에서 텍스트, 이미지 전송까지
 <div>
 <img width="50%" alt="haoaoao" src="https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/9aa45737-fd69-4818-b032-f9d04845a522">
 </div>
-
-<br>
-
-### ⚙️ 3-Tier Architecture
-
-![스크린샷 2023-12-26 125458](https://github.com/HyeyonJ/room-of-GUZZI/assets/113879120/25e232f8-5934-43d9-b918-bc7916d480f6)
-</br> Client : REACT </br> Server : Aws App Runner(Express) </br> Database : PlanetScale(MySQL) </br>
 
 <br>
 
